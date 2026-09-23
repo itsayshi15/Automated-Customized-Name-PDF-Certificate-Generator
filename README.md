@@ -23,7 +23,7 @@ certificate-generator/
     └── ...
 ```
 
-> ⚠️ **IMPORTANT RULE:** The file names written in your `config.json` file must **match your actual file names exactly**. This includes uppercase and lowercase letters as well as file extensions (like `.pdf` or `.xlsx`).
+>  **IMPORTANT RULE:** The file names written in your `config.json` file must **match your actual file names exactly**. This includes uppercase and lowercase letters as well as file extensions (like `.pdf` or `.xlsx`).
 
 ---
 
@@ -120,7 +120,7 @@ After the script finishes, open the `Certificates/` folder created in your file 
 
 ---
 
-## ⚙️ Config JSON Settings Explained
+## Config JSON Settings Explained
 
 | Settings Key | Type | Explanation |
 | :--- | :--- | :--- |
