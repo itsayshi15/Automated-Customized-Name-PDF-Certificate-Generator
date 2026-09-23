@@ -4,7 +4,7 @@ This is a Python application that creates personalized PDF certificates automati
 
 ---
 
-## 📁 File Organization & Naming Rules
+## File Organization & Naming Rules
 
 To run this project correctly without errors, all project files must be placed inside the **same main project folder**:
 
@@ -27,7 +27,7 @@ certificate-generator/
 
 ---
 
-## 💡 Why Use This Project?
+## Why Use This Project?
 
 * **Saves Time:** Creating certificates manually for many people takes a lot of time. This script generates hundreds of certificates in just a few seconds.
 * **Prevents Errors:** Copying names manually can cause spelling mistakes. This project takes names directly from your spreadsheet.
@@ -36,7 +36,7 @@ certificate-generator/
 
 ---
 
-## ✨ Features
+## Features
 
 1. **Customize Recipient Names:** Change the text color, font size, position, and alignment (`center`, `left`, or `right`) easily.
 2. **Spreadsheet Support:** Works with both Excel (`.xlsx`) and CSV (`.csv`) files.
@@ -48,7 +48,7 @@ certificate-generator/
 
 ---
 
-## ⚡ How It Is Different From Other Tools
+## How It Is Different From Other Tools
 
 * **No Text Overlap:** Basic tools cut off long names or draw text over borders. This script measures text width and resizes it automatically.
 * **Visual Grid Tool:** You do not need to guess coordinate numbers. The included grid tool shows exact `(X, Y)` positions clearly.
@@ -56,7 +56,7 @@ certificate-generator/
 
 ---
 
-## 🚀 Step-by-Step Setup & Usage Guide (VS Code)
+## Step-by-Step Setup & Usage Guide (VS Code)
 
 Follow these simple steps from start to finish using Visual Studio Code.
 
@@ -139,7 +139,7 @@ After the script finishes, open the `Certificates/` folder created in your file 
 
 ---
 
-## 🛠️ Troubleshooting
+## Troubleshooting
 
 * **File Not Found Error:** Check if your file names in `config.json` match your actual filenames exactly.
 * **Font Error:** Make sure your font file path is correct and points to a valid `.ttf` or `.otf` file.
