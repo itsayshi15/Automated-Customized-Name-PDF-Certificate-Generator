@@ -1,0 +1,15 @@
+{
+  "template_path": "template.pdf",
+  "sheet_path": "names.xlsx",
+  "name_column": "Name",
+  "output_dir": "Certificates",
+
+  "font_path": "Playfair_Display/PlayfairDisplay-Italic-VariableFont_wght.ttf",
+  "font_name": "PlayfairDisplay-Italic",
+  "font_size": 28,
+  "max_text_width": 400,
+  "x": 300,
+  "y": 360,
+  "align": "center",
+  "color": [0, 0, 0]
+}
